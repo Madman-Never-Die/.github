@@ -6,6 +6,6 @@
 
 ## [EDU-Chain-Hackathon-Semester-1] 에듀체인 오픈캠퍼스 온라인 해커톤 참여
 - 2024.07.15 ~ 2024.08.15
-- [frontend](https://github.com/Madman-Never-Die/front-edu-chain-hackathon-semester-1)
+- [frontend](https://github.com/Madman-Never-Die/frontend-edu-chain-hackathon-semester-1)
 - [backend](https://github.com/Madman-Never-Die/backend-edu-chain-hackathon-semester-1)
 
