@@ -8,4 +8,4 @@
 - 2024.07.15 ~ 2024.08.15
 - [frontend](https://github.com/Madman-Never-Die/frontend-edu-chain-hackathon-semester-1)
 - [backend](https://github.com/Madman-Never-Die/backend-edu-chain-hackathon-semester-1)
-
+- [contract](https://github.com/Madman-Never-Die/contract-edu-chain-hackathon-semester-1)
